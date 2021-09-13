@@ -3,7 +3,7 @@
 This lab expects that you have already installed Dart SDK on your system and integrated it with Visual Studio Code. Although it is not necessary to have Dart SDK installed on your system and integrate it with Visual Studio Code but since instructor is going to use this combination throughout this course, it would be easier to follow. Having said that, you are free to use any editor (locally installed or online) to complete this lab.
 
 ## Instructions
-In order to obtain maximum marks in this assignment, please ensure the followings:
+Please read the instructions below carefully:
 * This Lab has a weightage of **3%** marks of the course.
 * This is NOT a group assignment so students having similar assignments will get a 0.
 * You are required to submit the assignment on Canvas as instructed. Assignments through emails will not be accepted.
