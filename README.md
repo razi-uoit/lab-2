@@ -23,3 +23,20 @@ Please note the followings:
 * You can perform all the implementation in the main method
 * Use map method to iterate through each element of the list. (Hint: look into toList() method as well.)
 * The output of the program should be `All elements of the list are Prime numbers` if elements are prime and `All elements of the list are Prime not numbers` if even one of the elements is not prime.
+
+**Question 3**
+---------------------
+Write a program in Dart that shows the usage of Classes. The program should have a class `SmartDevices` with the following members:
+* String Brand 
+* String OS 
+* String Type 
+* String Feature 
+Furthermore, the class should have an overridden method `toString()` that should return a `String`.
+
+Please note the followings:
+* You need to create a short-form constructor for this class.
+* Create two instances of this class in the `main` method which when printed should display the following respectively:
+   1.	`Samsung Phone with Android operating system and makes calls.`
+   2.	`Apple Tablet with iOS operating system and has big screen.`
+
+* Please note that Samsung in instance 1 is Brand, Phone is Type, Android is OS and makes calls is Feature. Same applies to instance 2.
