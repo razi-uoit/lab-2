@@ -4,7 +4,7 @@ This lab expects that you have already installed Dart SDK on your system and int
 
 ## Instructions
 In order to obtain maximum marks in this assignment, please ensure the followings:
-* This Lab has a weightage of 3% marks of the course.
+* This Lab has a weightage of **3%** marks of the course.
 * This is NOT a group assignment so students having similar assignments will get a 0.
 * You are required to submit the assignment on Canvas as instructed. Assignments through emails will not be accepted.
 
@@ -40,3 +40,9 @@ Please note the followings:
    2.	`Apple Tablet with iOS operating system and has big screen.`
 
 * Please note that Samsung in instance 1 is Brand, Phone is Type, Android is OS and makes calls is Feature. Same applies to instance 2.
+
+**Question 4**
+---------------------
+Write a program in Dart to demonstrate the usage of `mixins`. The program should have a class `Sportsman` that contains the method called `void isSportsman()`. Create two mixins, `Swimmer` and `Runner`. Each mixin should have a method `void iAmSwimmer()` with a print statement saying, `I am a swimmer` and `iAmRunner()` with a print statement saying, `I am a runner` respectively. 
+
+Call these two mixin methods in `void isSportsman()` method of `Sportsman` class. Finally, in the `main` method, create an instance of `Sportsman` and call the `isSportsman` method to see if mixins are working with the class.
