@@ -9,7 +9,7 @@ In order to obtain maximum marks in this assignment, please ensure the following
 * You are required to submit the assignment on Canvas as instructed. Assignments through emails will not be accepted.
 
 **Question 1**
-___________________________
+---------------------
 
 Write a program in Dart that checks to see if all the elements of the list are prime numbers or not? You are required to create a function `bool isPrime(List numbers)` that takes a list as a parameter and returns `true` if all the elements of the list are prime and returns `false` even if one of the elements is not prime. Please note the followings:
 * List should be created in the main method
@@ -17,7 +17,7 @@ Write a program in Dart that checks to see if all the elements of the list are p
 * The output of the program should be `All elements of the list are Prime numbers` if elements are prime and `All elements of the list are Prime not numbers` if even one of the elements is not prime.
 
 **Question 2**
-____________
+---------------------
 Write a program in Dart that checks to see if all the elements of the list are prime numbers or not just like what you did in Question 1 except, this time you are required to use a `map` function in dart? You can read about Dart map function on this link (https://api.dart.dev/stable/2.13.4/dart-core/Iterable/map.html ). 
 Please note the followings:
 * You can perform all the implementation in the main method
